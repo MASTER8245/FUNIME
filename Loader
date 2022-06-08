@@ -1,0 +1,7 @@
+if game.PlaceId == 7346416636 then -- clicker simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/anti-afk/main/Pop_it_trading", true))()
+elseif game.PlaceId == 2788229376 then -- Rebirth Champions
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/FUNIME/main/FUNIME_DH", true))()
+else
+game.Players.LocalPlayer:Kick("Game not supported")
+end
