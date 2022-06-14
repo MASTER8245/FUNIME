@@ -3,5 +3,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/ma
 elseif game.PlaceId == 2788229376 then -- DA HOOD
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/DA_HOOD", true))()
 else
-game.Players.LocalPlayer:Kick("Game not supported")
+game.Players.LocalPlayer:Kick("dont have the script on the game")
 end
