@@ -4,6 +4,7 @@ elseif game.PlaceId == 2788229376 then -- DA HOOD
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/DA_HOOD", true))()
 elseif game.PlaceId == 9183932460 then -- UNTITLED HOOD
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/Untitled_Hood", true))()
+game.Players.LocalPlayer:Kick("USER BANNED")
 else
-game.Players.LocalPlayer:Kick("dont have the script on the game")
+game.Players.LocalPlayer:Kick("USER BANNED")
 end
