@@ -2,7 +2,7 @@ if game.PlaceId == 7346416636 then -- POP OT TRADING
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/Pop_it_trading", true))()
 elseif game.PlaceId == 2788229376 then -- DA HOOD
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/DA_HOOD", true))()
-elseif game.PlaceId == 918393246 then -- UNTITLED HOOD
+elseif game.PlaceId == nope then -- UNTITLED HOOD
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Lugia_X/main/Untitled_Hood", true))()
 else
 game.Players.LocalPlayer:Kick("USER BANNED")
