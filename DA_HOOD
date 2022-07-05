@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification",  {
- Title = "Bye my script ;-;";
- Text = "thx for using my script but bye ;-;";
+ Title = "Bye my script";
+ Text = "thx for using my script but bye";
  Icon = "rbxthumb://type=Asset&id=9888774574/&w=150&h=150";
  Duration = 999;
  Button1 = "OKAY";
