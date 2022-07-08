@@ -1,7 +1,8 @@
 userids = {
 [2930556344] = true,
-[228420938] = true,
 [3537340649] = true,
 [541514240] = true
 }
 return userids
+---[expired unvle bob 1day]---
+---[expired Cxrl 1day]---
