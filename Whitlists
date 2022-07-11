@@ -1,4 +1,5 @@
 userids = {
-[3537340649] = true ---TheWorldsAlts_permanent---
+[3537340649] = true, ---TheWorldsAlts_permanent---
+[1633355830] = true
 }
 return userids
